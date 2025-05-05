@@ -1,4 +1,4 @@
-👋 Hi there! I'm an experienced IT professional with 7+ years in systems administration, network infrastructure, and technical support. I'm currently diving deeper into DevOps, containerization, and Web3 smart contract development.
+👋 Hi there! I'm an experienced IT professional with 7+ years in systems administration, Cybersecurity, network infrastructure, and technical support. I'm currently diving deeper into DevOps, containerization, and Web3 smart contract development.
 
 💻 Tech Stack & Interests:
 
