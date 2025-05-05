@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there! I'm an experienced IT professional with 7+ years in systems administration, network infrastructure, Information Security, and technical support. I'm currently diving deeper into DevOps, containerization, and Web3 smart contract development.
 
-<!--
-**fredmara/fredmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack & Interests:
 
-Here are some ideas to get you started:
+DevOps: Docker, Ansible, Jenkins, CI/CD, Terraform (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web: React.js, Node.js, MongoDB
+
+Web3: Solidity, Binance Smart Chain, MetaMask integration
+
+Infrastructure: Linux, Unix, Windows Server, Networking, Security
+
+🚀 I love automating tasks, deploying scalable systems, and exploring emerging tech like blockchain and decentralized finance (DeFi).
+
+📌 Currently working on:
+
+A DeFi staking platform (BSC)
+
+A containerized e-commerce app with full DevOps pipeline
+
+Tafuta360 – a Kenyan search platform for houses, jobs, and more
+
+🔗 Let's connect and build something cool!
